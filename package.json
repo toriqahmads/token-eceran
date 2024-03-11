@@ -1,9 +1,13 @@
 {
   "name": "bsc-ecer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toriqahmads/token-eceran.git"
   },
   "dependencies": {
     "axios": "^0.21.1",
